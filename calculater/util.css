@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+
+
+/* margin: auto; */
+/* max-width: 32vw; */
+}
+.button{
+    padding: 20px;
+    margin: 23px 2px 3px 0px;
+    border-radius: 0.5em;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+}
